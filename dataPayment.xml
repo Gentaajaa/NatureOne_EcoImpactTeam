@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<pembayaran-list>
+    <pembayaran>
+        <namaDepan>Jojo</namaDepan>
+        <namaBelakang>Lolo</namaBelakang>
+        <jumlah>340000</jumlah>
+        <tanggalTransaksi>2024-07-08</tanggalTransaksi>
+    </pembayaran>
+</pembayaran-list>
